@@ -1,0 +1,10 @@
+ 
+-------------------------------------------------------------------- 
+  Financial Analysis 
+-------------------------------------------------------------------- 
+Total number of months in period: 86
+Total Revenue in period: $ 22564198
+Average monthly change in Revenue : $-4500.458823529411
+Greatest monthly increase in Revenue : unknown   $ 0
+Largest monthly decrease in Revenue : unknown   $ 0
+-------------------------------------------------------------------- 
